@@ -92,7 +92,7 @@ function App() {
                   <h6 className="w3-text-blue"><i className="far fa-calendar-alt fa-fw w3-margin-right"></i>Jun 2021</h6>
                   <ul>
                     <li>
-                      Developed an application that helps users organize their list of to do’s using React
+                     Provide users with the ability to organize their list of to do’s using React
                     </li>
                     <li>
                       Implemented a cache solution so users don’t lose their list of tasks when the page is refreshed, which also improves internal operating efficiency. I used the browser's local storage to save the user's input
@@ -108,7 +108,7 @@ function App() {
                   <h6 className="w3-text-blue"><i className="far fa-calendar-alt fa-fw w3-margin-right"></i>Sep 2021</h6>
                   <ul>
                     <li>
-                      Developed a web application where users are able to input their daily desired calorie intake to get three recipes along with their nutritional information to meet the user's goals
+                      Provides users with the ability to input their daily desired calorie intake to get three recipes along with their nutritional information to meet the user's goals
                     </li>
                     <li>
                       Intergrated with spoonacular's api to provide users with links to recipes that meets their calorie intake goals
