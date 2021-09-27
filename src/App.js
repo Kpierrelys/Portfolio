@@ -21,7 +21,7 @@ function App() {
                   <p><i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-blue"></i>Software Engineer</p>
                   <p><i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-blue"></i>Lawrenceville, GA</p>
                   <p><i className="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-blue"></i>kpierrelys.kp@gmail.com</p>
-                  <p><i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-blue"></i>4043582152</p>
+                  <p><i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-blue"></i>404-358-2152</p>
                   <hr/>
                     
                   <p className="w3-large"><b><i className="fa fa-asterisk fa-fw w3-margin-right w3-text-blue"></i>Skills</b></p>
